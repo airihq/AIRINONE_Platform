@@ -15,7 +15,7 @@ ARINONE 플랫폼은
 
 
 
-1. Speech maker : https://github.com/kyoungchinseo/speech-maker-arinbody   
+1. Speech maker : https://github.com/airihq/speech-maker-arinbody      
 2. Script editor : https://github.com/airihq/ScriptEditor_UE4   
 3. Scenario editor : https://github.com/airihq/ScenarioEditor   
 4. ARINBODY client : https://github.com/airihq/ARINBODY 
